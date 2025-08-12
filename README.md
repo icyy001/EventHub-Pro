@@ -33,7 +33,6 @@ Tip: `npx prisma studio` lets you view/edit the SQLite DB.
 ---
 ## Screenshots
 ![Homepage](docs/screenshot_home.png)
-![API JSON](docs/screenshot_api.png)
 
 
 ## API (short)
