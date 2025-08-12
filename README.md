@@ -4,6 +4,8 @@ Small events app I built to practise **Express + Prisma (SQLite)**.
 JSON API with **search + pagination** and a tiny **homepage** (plain JS/CSS).
 
 ---
+## Why I built this
+I wanted a small, realistic API to practise **Express + Prisma**—schema + seed, REST endpoints with **search/pagination**, and a minimal homepage. Simple to run, simple to grow.
 
 ## Features
 - `GET /events?search=&page=&limit=` (paginated list; case-insensitive via `searchIndex`)
